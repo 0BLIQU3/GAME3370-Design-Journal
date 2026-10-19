@@ -27,7 +27,7 @@ header a {
 }
 
 img {
-    max-width: fit-content;
+    max-width: 100%;
     height: auto;
 }
 
